@@ -1,0 +1,48 @@
+body{
+    background-color: #F0E8D5;
+}
+#portfolio{
+    margin: 210px;
+    text-size-adjust: 1020px;
+    text-align: center;
+    font-family: "Coustard", serif;
+    font-style: normal;
+}
+ul{
+    list-style:none;
+}
+button{
+    margin-top:10px;
+    padding: 10px;
+    font-size: 20px;
+    text-align:center;
+    font-family: "Coustard", serif;
+    font-style: normal;
+    font-display: swap;
+    margin-left: 20px;
+    background-color:#343D60 ;
+    border-radius: 75px;
+    border: none;
+    color: #F0E8D5;
+}
+#Aboutlight{
+
+    margin: auto;
+    color: #343D60;
+    text-align: center;
+    font-family: "Coustard", serif;
+    font-style: normal;
+    font-display: swap;
+    background-size: cover;
+    position: absolute;
+    width: 1820px;
+    height: 1024px;
+    left: -154px;
+    top: 0px;
+    background: url(https://i.pinimg.com/736x/0e/7e/a4/0e7ea47170df6d0ed1707efdb1a08c24.jpg);
+    
+
+    
+
+    
+}
