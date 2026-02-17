@@ -41,8 +41,10 @@ button{
     top: 0px;
     background: url(https://i.pinimg.com/736x/0e/7e/a4/0e7ea47170df6d0ed1707efdb1a08c24.jpg);
     
+}
 
-    
-
-    
+.textab{
+    text-align: center;
+    display:flex ;justify-content: center;
+    padding-top: 130px;
 }
